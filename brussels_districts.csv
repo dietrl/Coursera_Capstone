@@ -1,0 +1,146 @@
+﻿Code,Neighborhood,Municipality,Population,Area,Population Density,18-29,30-44,45-64,65+,Unemployment Rate,Not In Good Health,Health Index
+1,Grote Markt,Brussel,3384,0.38664,8752.36,25,30.11,26.33,8.1,19.49,23.31,1.05
+2,Dansaert,Brussel,9217,0.53287,17296.75,21.33,28.3,23.25,8.39,23.87,29.57,1.43
+3,Begijnhof - Diksmuide,Brussel,6622,0.38468,17214.23,22.33,28.77,22.11,7.69,24.29,29.35,1.33
+4,Martelaars,Brussel,2563,0.3754,6827.28,25.2,30.71,22.82,7.65,16.73,32.69,1.28
+5,Onze-Lieve-Vrouw-ter-Sneeuw,Brussel,2468,0.29225,8444.84,24.96,33.35,20.66,6.16,20.19,21.94,1.1
+6,Koningswijk,Brussel,330,0.70059,471.03,20.61,24.85,33.64,7.27,7.89,17.19,0.77
+7,Zavel,Brussel,2732,0.46349,5894.41,18.23,27.64,28,12.7,18,23.9,1.07
+8,Marollen,Brussel,12566,0.64377,19519.32,16,23.25,24.97,12.43,35.48,34.51,1.59
+9,Stalingrad,Brussel,3708,0.24173,15339.21,23.33,28.86,20.06,10.49,28.22,30.02,1.29
+10,Anneessens,Brussel,10043,0.44349,22645.2,20.21,25.47,21.13,7.39,31.37,27.5,1.52
+11,Kuregem Bara,Anderlecht - Sint-Gillis,12235,0.59142,20687.58,17.74,26.26,21.09,6.59,31.36,30.43,1.65
+12,Kuregem Veeartsenij,Anderlecht,9795,0.67182,14579.83,15.48,24.37,22.29,8.52,34.19,34.54,1.74
+13,Kuregem Dauw,Anderlecht - Sint-Jans-Molenbeek,5956,0.6816,8738.2,17.76,24.23,21.36,6.73,36.95,28.35,1.67
+14,Hertogin,Sint-Jans-Molenbeek,5458,0.37168,14684.57,16.73,23.76,19.75,7.59,31.02,27.81,1.55
+15,Weststation,Sint-Jans-Molenbeek,9753,0.51702,18863.72,18.23,22.05,20.38,8.02,38.92,30.26,1.73
+16,Historisch Molenbeek,Sint-Jans-Molenbeek,17907,0.71923,24897.33,18.36,20.63,22.39,8.49,38.94,29.31,1.72
+17,Koekelberg,Koekelberg - Jette,8794,0.35017,25113.58,15.04,24.08,20.37,8.72,29.47,33.11,1.52
+18,Havenwijk,Jette - Sint-Jans-Molenbeek - Brussel,17957,1.73776,10333.42,17.61,24.78,20.35,7.63,32.22,27.81,1.48
+19,Oud Laken West,Brussel,8344,0.49752,16771.32,17.62,24.14,21.49,7.2,24.99,29.35,1.38
+20,Oud Laken Oost,Brussel,18450,1.04934,17582.56,17.46,23.89,20.36,7.99,30.18,29.21,1.49
+21,Noordwijk,Brussel - Sint-Joost-ten-Node - Schaarbeek,15781,1.31784,11974.86,17.59,23.67,21.68,9.25,33.3,32.54,1.67
+22,Brabantwijk,Brussel - Sint-Joost-ten-Node - Schaarbeek,19390,0.78253,24778.59,18.81,24.39,21.54,7.74,34.08,29.58,1.68
+23,Colignon,Schaarbeek,18170,0.77708,23382.33,17.15,24.44,20.82,9.08,29.18,28.93,1.47
+24,Haachtse Steenweg,Schaarbeek,18206,0.71268,25545.67,19.42,25.44,21.46,7.59,32.28,30.46,1.77
+25,Sint-Joost Centrum,Sint-Joost-ten-Node,19238,0.61971,31043.31,20.02,26.46,21.56,8.53,31.82,29.41,1.54
+26,Dailly,Schaarbeek,18125,0.88201,20549.6,18.21,27.36,22.28,8.9,21.46,27.5,1.28
+27,Josaphat,Schaarbeek,7368,0.44275,16641.3,17.92,26.06,22.49,11.05,17.84,26.03,1.05
+28,Plasky,Schaarbeek,10225,0.50315,20321.92,18.44,28.62,22.9,11.11,13.92,24.69,0.98
+29,Squares,Brussel,13642,0.80501,16946.46,19.44,31.64,21.9,8.61,18.8,24.28,1.04
+30,Tervurense Poort,Brussel - Schaarbeek - Etterbeek - Sint-Lambrechts-Woluwe,10439,0.91041,11466.32,21.57,26.61,24.08,11.37,13.28,19.67,0.84
+31,Sint-Michiel,Etterbeek - Sint-Pieters-Woluwe,7019,0.723,9708.68,18.26,25,24.43,13.81,10.91,17.52,0.7
+32,Sint-Pieter,Etterbeek,14274,0.81094,17601.63,20.79,30.1,20.94,11.69,15.48,25.55,1.04
+33,Jacht,Etterbeek,18142,1.06125,17094.76,21.28,28.33,21.44,9.69,22.23,27.5,1.22
+34,Jourdan,Etterbeek - Elsene,9127,0.54455,16760,20.77,28.21,22.49,9.51,20.73,24.85,1.17
+35,Europawijk,Brussel - Elsene,2866,0.9691,2957.45,21.28,36.99,23.03,6.32,13.42,23.99,0.96
+36,Matonge,Elsene,9033,0.48634,18570.74,23.07,35.33,20.95,6.49,24.15,25.06,1.2
+37,Flagey - Malibran,Elsene,13874,0.65275,21254.64,24.09,30.41,20.47,9.42,25.15,26.7,1.29
+38,Hospitaal Etterbeek-Elsene,Elsene,10218,0.67543,15128.05,22.53,29.12,21.37,11.29,17.28,21.38,1.01
+39,Vijvers van Elsene,Elsene - Brussel,8704,0.83116,10472.09,18.47,27.3,24.63,15.43,12.2,20.83,0.77
+40,Louiza - Langehaag,Elsene - Brussel,6054,0.43149,14032.56,22.93,33.52,21.56,9.18,17.3,22,0.98
+41,Berckmans - Munthof,Sint-Gillis,8827,0.44364,19896.75,23.67,32.81,22.34,8.17,19.58,24.26,1.12
+42,Kastelein,Sint-Gillis - Elsene - Brussel,9568,0.65954,14505.09,21.92,33.36,22.08,9.1,14.93,20.56,0.89
+43,Brugmann - Lepoutre,Elsene - Vorst - Brussel,16432,1.28782,12760.44,18.96,28.88,23.69,12.24,15.53,18.92,0.78
+44,Churchill,Ukkel,12896,1.10243,11697.83,15.49,21.29,25.01,22.85,13.79,23.81,0.79
+45,Molière - Longchamp,Vorst - Ukkel,10031,0.54429,18429.4,16.57,27.65,22.51,12.99,17.26,26.97,1.11
+46,Hoogte 100,Vorst - Ukkel,8323,0.45772,18183.61,13.62,24.79,23.84,19.04,15.51,26.93,0.89
+47,Hoog Sint-Gillis,Sint-Gillis - Vorst,15229,0.76379,19938.69,19.55,31.16,21.92,10.23,21.15,25.65,1.21
+48,Hallepoort,Sint-Gillis,13919,0.53293,26117.71,18.06,26.05,24.53,9.28,28.95,31.82,1.54
+49,Bosnie,Sint-Gillis,7627,0.20165,37823.65,17.08,26.46,23.88,9.89,33.27,37.25,1.76
+50,Laag Vorst,Vorst - Sint-Gillis,13816,0.80063,17256.68,16.84,26.09,21.89,8.56,29.5,30.9,1.57
+51,Van Volxem - Van Haelen,Vorst,13122,0.84175,15588.9,16.15,25.81,23.13,12.48,19.96,27.23,1.14
+52,Veeweide - Aurore,Anderlecht,16006,0.91524,17488.1,16.53,23.44,22.74,12.83,21.73,34.57,1.28
+53,Bizet - Rad - Coovi,Anderlecht,15147,1.78711,8475.68,16.61,21.28,23.75,12.45,16.69,31.85,1.25
+54,Vogelenzang - Erasmus,Anderlecht,1875,2.44893,765.63,20.21,13.12,21.28,29.01,36,32.36,1.15
+55,Neerpede,Anderlecht,1324,3.95218,335,18.13,17.07,26.06,17.52,12.38,22.68,0.84
+56,Goede Lucht,Anderlecht,1722,0.30071,5726.41,14.92,16.55,28.75,12.66,23.45,35.23,1.38
+57,Scherdemaal,Anderlecht,10714,1.06361,10073.21,13.49,17.93,24.69,24.28,15.5,34.03,1.04
+58,Anderlecht - Centrum - Wayez,Anderlecht,14487,0.73027,19837.72,17.89,23.72,21.98,9.21,25.81,28.85,1.3
+59,Scheut,Anderlecht,13514,0.94315,14328.5,16.24,23.4,21.73,11.75,21.48,30.34,1.27
+60,Buffon,Anderlecht,5815,0.45648,12738.62,15.39,21.79,23.34,12.85,15.63,28,1.02
+61,Moortebeek - Peterbos,Anderlecht - Sint-Jans-Molenbeek,9530,1.09459,8706.42,13.2,17.67,24.34,18.56,25.36,38.44,1.32
+62,Machtens,Anderlecht - Sint-Jans-Molenbeek,23645,1.40404,16840.55,13.23,21.53,22.19,17.29,18.59,30.62,1.05
+63,Karreveld,Sint-Jans-Molenbeek,14571,0.78823,18485.78,14.57,21.37,22.44,11.39,26.14,35.94,1.31
+64,Frans Hospitaal,Koekelberg - Sint-Agatha-Berchem - Sint-Jans-Molenbeek,13498,0.80196,16830.53,14.45,22.15,22.7,18.24,15.92,29.59,0.99
+65,Korenbeek,Sint-Jans-Molenbeek - Sint-Agatha-Berchem,8983,0.75678,11869.49,14.09,20.37,24.08,16.29,17.55,27.22,1.08
+66,Potaarde,Sint-Agatha-Berchem,3502,0.65295,5364.87,13.91,19.53,26.36,15.88,12.05,21.82,0.86
+67,Sint-Agatha Berchem Centrum,Sint-Agatha-Berchem,15513,1.78677,8682.3,14.79,21.19,23.21,14.11,18.89,28.08,1.08
+68,Villa's van Ganshoren,Ganshoren,7262,0.77569,9361.99,12.86,16.32,25.45,24.54,20.92,38.65,1.12
+69,Ganshoren Centrum,Ganshoren,11957,0.85275,14021.71,13.46,23.16,23.57,14.28,17.89,28.02,1.04
+70,Basiliek,Ganshoren - Jette - Koekelberg,13405,0.80278,16696.83,17.17,24.77,22.89,10.98,19.77,26.06,1.12
+71,Woeste,Jette,19688,1.06102,18555.7,14.58,23.71,22.57,12.59,20.2,29.84,1.18
+72,Jette Centrum,Jette - Ganshoren,12976,0.96613,13431.78,15.38,22.25,24.42,14.52,17.63,27.49,1.08
+73,Heymbosch - AZ-Jette,Jette,9541,1.37384,6945.37,14.69,21.97,24.2,17.65,11.74,26.96,0.96
+74,Heizel,Brussel - Jette,15327,2.79391,5485.65,13.35,19.18,23.44,18.93,20.98,33.03,1.11
+75,Houba,Brussel - Jette,18135,1.20449,15055.23,16.08,22.52,23.05,11.56,23.36,31.13,1.22
+76,Mutsaard,Brussel,13930,1.38761,10038.88,13.95,21.27,23.93,17.64,15.23,27.46,0.96
+77,Heembeek,Brussel,15019,1.93555,7759.59,14.52,19.7,23.65,16.04,18.06,28.3,1.16
+78,Haren,Brussel,6019,1.93756,3106.52,16.86,20.32,24.12,8.04,15.65,24.63,1.11
+79,Vrede,Evere,12567,1.20376,10439.91,15.39,22.15,23.04,14.31,21.17,29.38,1.18
+80,Helmet,Schaarbeek,12800,0.71105,18001.57,17.23,24.52,21.07,8.97,24.71,30.92,1.38
+81,Schaarbeek Station,Schaarbeek,7969,0.37422,21294.9,17.78,25.61,20.88,7.99,24.51,26.68,1.32
+82,Terdelt,Schaarbeek,9689,0.6709,14441.73,15.38,20.55,23.29,16.34,18.36,29.14,1.1
+83,Conscience,Evere,8491,0.49182,17264.75,16.12,22.88,21.62,15,20.97,28.66,1.09
+84,Leopold III Laan,Evere,8968,1.23338,7271.16,13.57,22.93,23.96,17.15,18.55,30.34,1.05
+85,Josaphat Station,Schaarbeek,4804,0.60545,7934.63,14.63,25.46,22.06,14.95,16.63,28.84,0.98
+86,Paduwa,Evere,11461,1.15564,9917.51,15.28,22.48,22.02,17.76,17.32,29.48,1.16
+87,Reyers,Schaarbeek,3711,0.59753,6210.57,17.52,25.98,22.5,12.23,17.33,29.27,1.04
+88,Georges Henri,Sint-Lambrechts-Woluwe - Schaarbeek,15614,1.15548,13513.04,16.91,23.9,23.69,15.66,11.29,20.95,0.79
+89,Gribaumont,Sint-Pieters-Woluwe - Sint-Lambrechts-Woluwe,11449,1.02398,11180.91,15.8,23.71,24.59,17.09,10.48,20.2,0.72
+90,Roodebeek - Sterrebeelden,Sint-Lambrechts-Woluwe,14231,1.54936,9185.15,15.14,21.38,23.81,20.15,15.02,27.01,0.91
+91,Gulledelle,Sint-Lambrechts-Woluwe,11032,1.6451,6711.27,14.89,24.66,23.69,17.3,10.51,22.31,0.86
+92,Kapelleveld,Sint-Pieters-Woluwe - Sint-Lambrechts-Woluwe,5706,1.90487,2999.78,20.8,18.61,23.57,16.65,19.14,23.51,0.92
+93,Woluwelaan,Sint-Pieters-Woluwe - Sint-Lambrechts-Woluwe,6369,1.06177,5998.47,14.66,21.93,26.38,14.24,13.3,23.78,0.95
+94,Stokkel,Sint-Pieters-Woluwe - Sint-Lambrechts-Woluwe,9021,1.51447,5956.25,12.66,19.21,26.47,20.91,8.04,19.94,0.74
+95,Sinte-Aleidis - Mooibos,Sint-Pieters-Woluwe,4459,0.99,4504.68,13.16,18.52,26.71,18.1,8.54,21.21,0.77
+96,Sint-Paulus,Sint-Pieters-Woluwe,7866,1.785,4406.75,14.54,16.37,25.87,22.53,9.77,18.02,0.67
+97,Putdaal,Sint-Pieters-Woluwe - Oudergem,1407,0.77961,1804.87,16.63,13.15,29.35,22.96,7.47,17.1,0.62
+98,Oudergem Centrum,Oudergem,5194,0.80398,6460.4,13.73,24.09,23.55,17.02,9.43,23.66,0.92
+99,Vogelzang,Sint-Pieters-Woluwe - Oudergem,10647,1.56929,6784.48,14.16,19.13,24.81,19.25,9.39,19.09,0.66
+100,Waversteenweg - Sint-Juliaan,Oudergem - Etterbeek,17268,1.38221,12492.98,18.09,24.7,23.18,14.03,13.15,23.29,0.89
+101,Drie Linden,Watermaal-Bosvoorde - Oudergem,6845,1.01018,6776.01,14.58,15.76,27.48,18.19,18.21,25.1,0.93
+102,Transvaal,Oudergem,6966,1.22867,5669.56,13.47,17.54,26.72,19.44,14,24.62,0.87
+103,Bosvoorde Centrum,Watermaal-Bosvoorde,6068,1.63425,3713.05,15.59,18.59,28.59,15.69,11.92,19.93,0.82
+104,Watermaal Centrum,Watermaal-Bosvoorde - Oudergem,10657,1.72824,6166.39,13.59,19.92,25,23.7,11.34,23.92,0.8
+105,Dries,Watermaal-Bosvoorde - Elsene - Brussel,6331,1.03489,6117.61,12.64,18.45,26.01,20.36,13.55,24.18,0.89
+106,Boondaal,Elsene - Brussel,11210,1.45737,7691.9,17.41,21.95,23.51,19.7,14.19,24.99,0.85
+107,Universiteitswijk,Elsene,11646,1.24615,9345.51,33.7,25.98,17.54,10.4,19.55,23.1,0.94
+108,Montjoie - Langeveld,Ukkel,5433,1.11905,4855.03,15.15,19.03,26.08,20.03,11.05,17.76,0.65
+109,Observatorium,Ukkel,6423,1.98723,3232.14,13.25,16.19,26.55,24.01,9.91,18.34,0.63
+110,Fort Jaco,Ukkel - Brussel,3136,1.28648,2437.66,14.86,17.22,26.79,20.76,10.49,19.37,0.74
+111,Diesdelle,Ukkel,3200,2.50549,1277.2,14.16,13,27.44,25.22,6.35,14.15,0.56
+112,Kriekenput - Homborch - Verrewinkel,Ukkel,4541,1.90247,2386.92,15.59,14.27,29.07,17.73,19.84,24.92,0.96
+113,Sint-Job Kauwberg,Ukkel,5732,2.17559,2634.7,14.48,19.35,26.8,17.17,11.52,18.76,0.73
+114,Dieweg,Ukkel,6652,1.19523,5565.47,12.39,18.21,26.86,19.09,11.04,19.36,0.76
+115,Kalevoet - Moensberg,Ukkel,11513,2.08904,5511.16,14.67,19.67,25.46,17.6,14.63,27.59,1.05
+116,Globe,Ukkel,15733,1.4571,10797.48,16.57,23.3,24.73,15.69,15.76,23.64,0.91
+117,Vossegat - Roosendaal,Ukkel - Vorst,7961,1.01103,7874.13,12.79,19.28,24.26,23.92,14.57,28.04,0.87
+118,Sint-Denijs - Neerstalle,Vorst,8427,0.80901,10416.45,16.45,22.57,24.49,11.53,24.92,31.59,1.3
+700,Kerkhof Brussel,Evere,26,0.49063,52.99,ND,ND,ND,ND,ND,ND,ND
+701,Kerkhof Elsene,Elsene,1,0.11471,VS,ND,ND,ND,ND,ND,ND,ND
+702,Kerkhof Sint-Gillis,Ukkel,1,0.23825,VS,ND,ND,ND,ND,ND,ND,ND
+800,Industrie Noord,Brussel - Evere,1691,6.66068,253.88,ND,ND,ND,ND,ND,ND,ND
+801,Industrie NATO,Brussel - Evere,539,2.44172,220.75,ND,ND,ND,ND,ND,ND,ND
+802,Delta,Oudergem,0,0.25536,VS,ND,ND,ND,ND,ND,ND,ND
+803,Industrie Zuid,Anderlecht - Vorst,1360,3.89082,349.54,ND,ND,ND,ND,ND,ND,ND
+804,Zuidstation,Sint-Gillis,31,0.24222,127.98,ND,ND,ND,ND,ND,ND,ND
+805,Industrie Birmingham,Anderlecht,341,0.25362,1344.52,ND,ND,ND,ND,ND,ND,ND
+900,Koninklijk Domein Laken,Brussel,30,2.79022,10.75,ND,ND,ND,ND,ND,ND,ND
+901,Josaphatpark,Schaarbeek,11,0.38225,VS,ND,ND,ND,ND,ND,ND,ND
+902,Kruidtuin,Sint-Joost-ten-Node,0,0.07049,VS,ND,ND,ND,ND,ND,ND,ND
+903,Jubelpark,Brussel - Etterbeek,19,0.38403,VS,ND,ND,ND,ND,ND,ND,ND
+904,Léopoldpark,Brussel,142,0.11196,1268.31,ND,ND,ND,ND,ND,ND,ND
+905,Park van Woluwe,Sint-Pieters-Woluwe - Oudergem,126,1.35568,92.94,ND,ND,ND,ND,ND,ND,ND
+906,Zonienwoud,Sint-Pieters-Woluwe - Oudergem - Watermaal-Bosvoorde - Ukkel,99,17.87522,5.54,ND,ND,ND,ND,ND,ND,ND
+907,Ter Kamerenbos,Brussel,1,1.25297,VS,ND,ND,ND,ND,ND,ND,ND
+908,Wolvendaelpark,Ukkel,0,0.15618,VS,ND,ND,ND,ND,ND,ND,ND
+909,Dudenpark - Park van Vorst,Vorst,503,0.48653,1033.86,ND,ND,ND,ND,ND,ND,ND
+910,Vijverspark,Anderlecht,0,0.07544,VS,ND,ND,ND,ND,ND,ND,ND
+911,Astridpark,Anderlecht,2,0.16494,VS,ND,ND,ND,ND,ND,ND,ND
+912,Bospark,Anderlecht,0,0.04665,VS,ND,ND,ND,ND,ND,ND,ND
+913,Marie-Josepark,Sint-Jans-Molenbeek,0,0.07855,VS,ND,ND,ND,ND,ND,ND,ND
+914,Scheutbos,Sint-Jans-Molenbeek,89,0.45655,194.95,ND,ND,ND,ND,ND,ND,ND
+915,Elisabethpark,Ganshoren - Koekelberg,2,0.23283,VS,ND,ND,ND,ND,ND,ND,ND
+916,Laarbeekbos - Poelbos,Ganshoren - Jette,20,1.15277,17.35,ND,ND,ND,ND,ND,ND,ND
+917,Boudewijnpark - Dielegembos,Jette,92,0.47429,194.01,ND,ND,ND,ND,ND,ND,ND
